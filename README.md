@@ -9,8 +9,6 @@ In addition, there is also a community project which is known as Spring Admin th
 
 ### References
 
- * https://github.com/czetsuya/Terawarehouse-Admin-Server
  * https://github.com/codecentric/spring-boot-admin
  * https://codecentric.github.io/spring-boot-admin/current
  * https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html
-
