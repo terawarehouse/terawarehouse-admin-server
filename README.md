@@ -7,8 +7,23 @@ When dealing with a multi-component application such as in a microservice archit
 
 In addition, there is also a community project which is known as Spring Admin that provides an administration that provides a centralized place to access the details submitted by all the registered clients.
 
+## Dockerized
+
+```
+docker build -t czetsuya/terawarehouse-adminserver .
+docker run -d -p 8761:8761 czetsuya/terawarehouse-admin-server
+```
+
 ### References
 
  * https://github.com/codecentric/spring-boot-admin
  * https://codecentric.github.io/spring-boot-admin/current
  * https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html
+ 
+## Repositories
+
+ - https://github.com/terawarehouse
+ 
+## Authors
+
+ * **Edward P. Legaspi** - *Java Architect* - [czetsuya](https://github.com/czetsuya)
