@@ -1,3 +1,5 @@
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
 **Help me build more open-source projects by becoming my sponsor.*
 
 # How to Monitor, Audit and Gather Metrics on a Spring Boot Application
